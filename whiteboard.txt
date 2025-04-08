@@ -1,0 +1,10 @@
+-> Just throwing my thoughts around here
+
+1. Define the problem
+2. Gather and prepare the data
+3. Choose a model --> we are using random forest
+4. Train the model
+5. Evaluate the model
+6. Tune & improve
+7. Use the model for predictions
+
